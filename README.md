@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 
-  <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=boretobg&show_icons=true&hide_border=true" />
-
-</details>
-
-
+<br/>
 
 ### Connect with me:
 

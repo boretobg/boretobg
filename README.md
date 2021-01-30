@@ -10,6 +10,8 @@
 [<img align="left" alt="boretobg | Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />][spotify]
 
 <br/>
+<br/>
+<br/>
 
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 

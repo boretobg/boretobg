@@ -3,7 +3,7 @@
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="boretobg | gif" width="270px" border="5" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-### Connect with me:
+### Connect with me here:
 
 [<img align="left" alt="boretobg | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
 [<img align="left" alt="boretobg | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]

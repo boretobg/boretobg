@@ -6,7 +6,6 @@
 <br/>
 <img aling="left" alt="boretobg | gif" width="220px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<br/>
 ### Connect with me:
 
 [<img align="left" alt="boretobg | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]

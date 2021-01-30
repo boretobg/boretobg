@@ -3,9 +3,7 @@
 ## I am a student in Software University and Technical University of Sofia, learning Software Engineering...
 
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
-<img aling="left" alt="boretobg | gif" width="220px" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
-
-<br/>
+<img aling="left" alt="boretobg | gif" width="220px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ### Connect with me:
 

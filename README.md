@@ -2,6 +2,8 @@
 
 ## I am a student in Software University and Technical University of Sofia, learning Software Engineering...
   
+[<img aling="left" alt="boretobg | gif" src="https://giphy.com/gifs/programmer-p4NLw3I4U0idi" />]
+
 ### Connect with me:
 
 [<img align="left" alt="boretobg | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]

@@ -1,5 +1,5 @@
 # Hi there 👋 
-## My name is Borislav, 19 years old and student at Software University and Technical University of Sofia. I love playing video games and I hope someday I can make them not only play them.
+### Student at Software University and Technical University of Sofia. Loves playing video games and dreams of creating them one day.
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="boretobg | gif" width="270px" border="5" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 

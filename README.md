@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-  <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
-
-<br/>
-
+## I am a student in Software University and Technical University of Sofia, learning Software Engineering...
+  
 ### Connect with me:
 
 [<img align="left" alt="boretobg | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
@@ -13,6 +10,8 @@
 [<img align="left" alt="boretobg | Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />][spotify]
 
 <br/>
+
+<img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 
 [facebook]: https://facebook.com/boretobg
 [instagram]: https://instagram.com/bobbystefanov

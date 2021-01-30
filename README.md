@@ -1,6 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋
 ## I am a student in Software University and Technical University of Sofia, learning Software Engineering...
+### I'm currently learning MSSQL on the course C# DB at SoftUni
+#### Little experience with C, HTML, Arduino
 
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="boretobg | gif" width="270px" border="5" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />

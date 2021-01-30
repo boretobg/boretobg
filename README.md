@@ -2,7 +2,7 @@
 
 ## I am a student in Software University and Technical University of Sofia, learning Software Engineering...
   
-<img aling="left" alt="boretobg | gif" width="220px" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" />
+<img aling="left" alt="boretobg | gif" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/campan2.gif" />
 
 ### Connect with me:
 

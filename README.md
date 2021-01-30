@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ## I am a student in Software University and Technical University of Sofia, learning Software Engineering...
-  
-<img aling="left" alt="boretobg | gif" width="220px" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/campan2.gif" />
 
 ### Connect with me:
 
@@ -15,6 +13,7 @@
 <br/>
 <br/>
 
+<img aling="left" alt="boretobg | gif" width="220px" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 
 [facebook]: https://facebook.com/boretobg

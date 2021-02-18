@@ -15,6 +15,8 @@
 [youtube]: https://www.youtube.com/paddingtonyt
 [spotify]: https://open.spotify.com/user/21kbmgahty4nyq4tycetkhn5i
 
+<br/>
+
 <table>
   <tr>
     <th> Certificates</th>

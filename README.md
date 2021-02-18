@@ -3,28 +3,36 @@
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="boretobg | gif" width="270px" border="5" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<table>
-  <tr>
-    <th> <a href="https://softuni.bg/users/profile/certificates?username=BobbyStefanov"> 📜Certificates📜</th>
-  </tr>
-  <tr>
-    <td> <a href="https://softuni.bg/certificates/details/81539/201dbf5b">✔️ C# Programming Basics - March 2020</a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://softuni.bg/certificates/details/86277/6684d0be">✔️ C# Fundamentals - May 2020</a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://softuni.bg/certificates/details/90343/be5155d6">✔️ C# Advanced - September 2020</a>  </td>
-  </tr>
-  <tr>
-    <td> <a href="https://softuni.bg/certificates/details/95786/2c2a95c3">✔️ C# OOP - October 2020</a> </td>
-  </tr>
-  <tr>
-    <td><a href="https://softuni.bg/certificates/details/97753/7180e6b7">✔️ MS SQL - January 2021</a>  </td>
-  </tr>
-</table>
 
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boretobg&layout=compact&theme=tokyonight" />
+<table>
+    <tr>
+        <th>
+            <table>
+            <tr>
+                <th> <a href="https://softuni.bg/users/profile/certificates?username=BobbyStefanov"> 📜Certificates📜</th>
+            </tr>
+            <tr>
+                <td> <a href="https://softuni.bg/certificates/details/81539/201dbf5b">✔️ C# Programming Basics - March 2020</a> </td>
+            </tr>
+            <tr>
+                <td> <a href="https://softuni.bg/certificates/details/86277/6684d0be">✔️ C# Fundamentals - May 2020</a> </td>
+            </tr>
+            <tr>
+                <td> <a href="https://softuni.bg/certificates/details/90343/be5155d6">✔️ C# Advanced - September 2020</a>  </td>
+            </tr>
+            <tr>
+                <td> <a href="https://softuni.bg/certificates/details/95786/2c2a95c3">✔️ C# OOP - October 2020</a> </td>
+            </tr>
+            <tr>
+                <td><a href="https://softuni.bg/certificates/details/97753/7180e6b7">✔️ MS SQL - January 2021</a>  </td>
+            </tr>
+            </table> 
+        </th>
+        <th>
+            <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boretobg&layout=compact&theme=tokyonight" /> 
+        </th>
+    </tr>
+</table>
 
 ### Connect with me here:
 

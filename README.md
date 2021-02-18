@@ -3,9 +3,6 @@
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="boretobg | gif" width="270px" border="5" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boretobg&layout=compact&theme=tokyonight" /> 
-
 <table>
     <tr>
          <th> <a href="https://softuni.bg/users/profile/certificates?username=BobbyStefanov"> 📜Certificates📜</th>
@@ -26,8 +23,6 @@
          <td><a href="https://softuni.bg/certificates/details/97753/7180e6b7">✔️ MS SQL - January 2021</a>  </td>
      </tr>
  </table> 
-
-
 
 ### Connect with me here:
 

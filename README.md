@@ -28,11 +28,10 @@
             </tr>
             </table> 
         </th>
-        <th>
-            <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boretobg&layout=compact&theme=tokyonight" /> 
-        </th>
     </tr>
 </table>
+
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boretobg&layout=compact&theme=tokyonight" /> 
 
 ### Connect with me here:
 

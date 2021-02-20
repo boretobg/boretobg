@@ -35,9 +35,3 @@
 [instagram]: https://instagram.com/bobbystefanov
 [youtube]: https://www.youtube.com/paddingtonyt
 [spotify]: https://open.spotify.com/user/21kbmgahty4nyq4tycetkhn5i
-
-<body>
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
-Your browser does not support the HTML canvas tag.
-</canvas>
-</body>

@@ -5,7 +5,7 @@
 
 <table style="float: left;">
     <tr>
-         <td> <a href="https://softuni.bg/users/profile/certificates?username=BobbyStefanov"> 📜Certificates📜</td>
+         <td colspan="2"> <a href="https://softuni.bg/users/profile/certificates?username=BobbyStefanov"> 📜Certificates📜</td>
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/81539/201dbf5b">✔️  C# Programming Basics - March 2020</a> </td>

@@ -9,23 +9,23 @@
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/81539/201dbf5b">✔️  C# Programming Basics - March 2020</a> </td>
-	 <td> 🔜  <i> Entity Framework Core - February 2021 </i> </a> </td>
+	 <td>   <i> Entity Framework Core - February 2021 </i> </a> </td>
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/86277/6684d0be">✔️  C# Fundamentals - May 2020</a> </td>
-	 <td> 🔜  <i> C# Web Basics - May 2021 </i> </a> </td>
+	 <td>   <i> C# Web Basics - May 2021 </i> </a> </td>
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/90343/be5155d6">✔️  C# Advanced - September 2020</a>  </td>
-	 <td> 🔜  <i> ASP.NET Core - June 2021 </i> </a> </td>
+	 <td>   <i> ASP.NET Core - June 2021 </i> </a> </td>
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/95786/2c2a95c3">✔️  C# OOP - October 2020</a> </td>
-	 <td> 🔜  <i> Java Advanced </i> </a> </td>
+	 <td>   <i> Java Advanced </i> </a> </td>
      </tr>
      <tr>
          <td><a href="https://softuni.bg/certificates/details/97753/7180e6b7">✔️  MS SQL - January 2021</a>  </td>
-	 <td> 🔜  <i> Java OOP </i> </a> </td>
+	 <td>   <i> Java OOP </i> </a> </td>
      </tr>
  </table> 
 

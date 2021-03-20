@@ -29,7 +29,7 @@
      </tr>
  </table> 
 
- <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=boretobg">
+ <img width="150" height="30" src="https://visitor-badge.glitch.me/badge?page_id=boretobg">
 
 ### Connect with me here:
 

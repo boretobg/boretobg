@@ -28,7 +28,6 @@
 	 <td>   <i> Java OOP </i> </a> </td>
      </tr>
  </table> 
-
  <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=boretobg">
 
 ### Connect with me here:

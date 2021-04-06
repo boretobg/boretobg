@@ -9,7 +9,7 @@
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/81539/201dbf5b">✔️  C# Programming Basics - March 2020</a> </td>
-	 <td>   <i> Entity Framework Core - February 2021 </i> </a> </td>
+	 <td> <a href="https://softuni.bg/certificates/details/102712/4055a902">✔️ Entity Framework Core - February 2021</a> </td>
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/86277/6684d0be">✔️  C# Fundamentals - May 2020</a> </td>

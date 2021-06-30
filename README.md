@@ -1,5 +1,5 @@
 # Welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"> 
-### Student at Software University and Technical University of Sofia. Currently learning C# Web Basics.
+### Student at Software University and Technical University of Sofia. Currently learning ASP.NET Core.
 <img align="left" alt="boretobg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=boretobg&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
 <img aling="left" alt="boretobg | gif" width="270px" border="5" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 

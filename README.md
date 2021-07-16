@@ -13,7 +13,7 @@
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/86277/6684d0be">✔️  C# Fundamentals - May 2020</a> </td>
-	 <td>   <i> C# Web Basics - May 2021 </i> </a> </td>
+	 <td> <a href="https://softuni.bg/certificates/details/109529/f6913829">✔️ C# Web Basics - May 2021 </a> </td>
      </tr>
      <tr> 
          <td> <a href="https://softuni.bg/certificates/details/90343/be5155d6">✔️  C# Advanced - September 2020</a>  </td>

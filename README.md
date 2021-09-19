@@ -17,7 +17,7 @@
      </tr>
      <tr> 
          <td> <a href="https://softuni.bg/certificates/details/90343/be5155d6">✔️  C# Advanced - September 2020</a>  </td>
-	 <td>   <i> ASP.NET Core - June 2021 </i> </a> </td>
+	 <td> <a href="https://softuni.bg/certificates/details/113480/9554b432">✔️ ASP.NET Core - June 2021</a> </td>
      </tr>
      <tr>
          <td> <a href="https://softuni.bg/certificates/details/95786/2c2a95c3">✔️  C# OOP - October 2020</a> </td>
